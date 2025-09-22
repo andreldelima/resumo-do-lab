@@ -9,3 +9,11 @@ Segundo desafio, aprendizado realizado através das vídeo aulas e dos recursos 
 
 [<img width="885" height="655" alt="image" src="https://github.com/user-attachments/assets/cc1506fb-6289-4c64-8a48-f9e60678006d" />
 ](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
+
+-----
+
+Terceiro desafio, aprendizado realizado através das vídeo aulas e dos recursos úteis, como a adocumentação da Microsoft.
+
+https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
+
+-----
