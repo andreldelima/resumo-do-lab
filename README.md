@@ -17,3 +17,9 @@ Terceiro desafio, aprendizado realizado através das vídeo aulas e dos recursos
 https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
 
 -----
+
+Quarto desafio, criação de grupo de recursos e portal com a visibilidade global de todos datacenters do mundo e outros recursos da Azure.
+
+https://datacenters.microsoft.com/globe/explore/
+
+-----
