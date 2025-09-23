@@ -23,3 +23,7 @@ Quarto desafio, criação de grupo de recursos e portal com a visibilidade globa
 https://datacenters.microsoft.com/globe/explore/
 
 -----
+
+Quinto desafio, nele aprendemos a criar máquinas virtuais e aplicativos de funções.
+
+-----
