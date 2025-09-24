@@ -27,3 +27,7 @@ https://datacenters.microsoft.com/globe/explore/
 Quinto desafio, nele aprendemos a criar máquinas virtuais e aplicativos de funções.
 
 -----
+
+Sexto desafio, aprendemos sobre armazenamento e migração de dados.
+
+-----
