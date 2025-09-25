@@ -31,3 +31,7 @@ Quinto desafio, nele aprendemos a criar máquinas virtuais e aplicativos de fun�
 Sexto desafio, aprendemos sobre armazenamento e migração de dados.
 
 -----
+
+Sétimo desafio, tratou de Identidade, acesso e segurança, foi abordado o Microsoft Entra, autenticação, integração com AD on premise e a segurança com limitação dos usuários, senhas e outros detalhes.
+
+-----
