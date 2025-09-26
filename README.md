@@ -35,3 +35,7 @@ Sexto desafio, aprendemos sobre armazenamento e migração de dados.
 Sétimo desafio, tratou de Identidade, acesso e segurança, foi abordado o Microsoft Entra, autenticação, integração com AD on premise e a segurança com limitação dos usuários, senhas e outros detalhes.
 
 -----
+
+Oitavo desafio, o foco foi nos custos da nuvem e no uso da calculadora para estimar o valor que pagaríamos em caso de migração para a Azure.
+
+-----
