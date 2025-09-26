@@ -43,3 +43,7 @@ Oitavo desafio, o foco foi nos custos da nuvem e no uso da calculadora para esti
 Nono desafio, governança e conformidade.
 
 -----
+
+Décimo desafio, laboratório de gerenciamento e implantação.
+
+-----
