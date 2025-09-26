@@ -47,3 +47,5 @@ Nono desafio, governança e conformidade.
 Décimo desafio, laboratório de gerenciamento e implantação.
 
 -----
+
+Décimo primeiro desafio, último laboratório, foca nas ferramentas de monitoramento do Azure.
