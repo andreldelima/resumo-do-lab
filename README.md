@@ -39,3 +39,7 @@ Sétimo desafio, tratou de Identidade, acesso e segurança, foi abordado o Micro
 Oitavo desafio, o foco foi nos custos da nuvem e no uso da calculadora para estimar o valor que pagaríamos em caso de migração para a Azure.
 
 -----
+
+Nono desafio, governança e conformidade.
+
+-----
